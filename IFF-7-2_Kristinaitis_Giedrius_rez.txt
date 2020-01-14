@@ -6,28 +6,28 @@ IFF-7-2_Kristinaitis_Giedrius_dat_1.json Results
  51/3 bbbbbbbbbbbbbbbbbbb|420.690000|       100|         b
   2/1 bbbbbbbbbbbbbbbbbbb|420.690000|       100|         b
   3/2 bbbbbbbbbbbbbbbbbbb|420.690000|       100|         b
-                       ss|420.690000|       100|         s
   4/3 bbbbbbbbbbbbbbbbbbb|420.690000|       100|         b
  50/2 bbbbbbbbbbbbbbbbbbb|420.690000|       100|         b
+                       ss|420.690000|       100|         s
                      Sxth|420.690000|       100|         t
-                     ghmg|420.690000|       100|         m
                     Svnth|420.690000|       100|         t
-                 sdfvsdfv|420.690000|       100|         s
+                     ghmg|420.690000|       100|         m
                  dfghnfhn|420.690000|       100|         n
-                 hjhjhjhj|420.690000|       100|         h
+                 sdfvsdfv|420.690000|       100|         s
                    Frfgst|420.690000|       100|         s
                    gmkhjm|420.690000|       100|         j
                 sdfvsdfgb|420.690000|       100|         v
+                 hjhjhjhj|420.690000|       100|         h
                 sdfgbdfbh|420.690000|       100|         g
-                 vcvcvccv|420.690000|       100|         v
                    ghghgh|420.690000|       100|         g
                    sdsdsd|420.690000|       100|         s
-                 sdcwdccf|420.690000|       100|         d
+                 vcvcvccv|420.690000|       100|         v
                    dfdfdf|420.690000|       100|         d
                   plplplp|420.690000|       100|         l
                  rtrtrtrt|420.690000|       100|         r
-                dbgbhdfgb|420.690000|       100|         b
+                 sdcwdccf|420.690000|       100|         d
                  vtbjgjnn|420.690000|       100|         g
+                dbgbhdfgb|420.690000|       100|         b
 -------------------------------------------------------------
 IFF-7-2_Kristinaitis_Giedrius_dat_2.json Results
 -------------------------------------------------------------
@@ -42,8 +42,8 @@ IFF-7-2_Kristinaitis_Giedrius_dat_2.json Results
                        ss|420.690000|       100|         s
                  dfghnfhn|420.690000|       100|         n
                    ghghgh|420.690000|       100|         g
-                   dfdfdf|420.690000|       100|         d
                    sdsdsd|420.690000|       100|         s
+                   dfdfdf|420.690000|       100|         d
                  sdcwdccf|420.690000|       100|         d
 -------------------------------------------------------------
 IFF-7-2_Kristinaitis_Giedrius_dat_3.json Results
